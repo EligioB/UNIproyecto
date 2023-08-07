@@ -1,0 +1,263 @@
+{
+    "alumnos": [
+        {
+            "id": "ABC1234434",
+            "boleta": 1024,
+            "name": "John Doe",
+            "email": "john@gmail.com",
+            "materias": [
+                {
+                    "name": "Matematicas",
+                    "calificacion": "10",
+                    "profesor": "Juan Perez",
+                    "horario": "Lunes 10:00 - 12:00"
+                },
+                {
+                    "name": "Programacion ",
+                    "calificacion": "10",
+                    "profesor": "Memo",
+                    "horario": "Lunes 10:00 - 12:00"
+                }
+            ]
+        },
+        {
+            "id": "ABC1234435",
+            "boleta": 1025,
+            "name": "Juan Perez",
+            "email": "juan@gmail.com",
+            "materias": [
+                {
+                    "name": "Español",
+                    "calificacion": "8",
+                    "profesor": "Pedro Muñoz",
+                    "horario": "Viernes 10:00 - 12:00"
+                },
+                {
+                    "name": "Programacion ",
+                    "calificacion": "10",
+                    "profesor": "Memo",
+                    "horario": "Lunes 10:00 - 12:00"
+                }
+            ]
+        },
+        {
+            "id": "ABC1234436",
+            "boleta": 1026,
+            "name": "Laura Pico",
+            "email": "laura@gmail.com",
+            "materias": [
+                {
+                    "name": "Biologia",
+                    "calificacion": "10",
+                    "profesor": "Martha Villeda",
+                    "horario": "Lunes 10:00 - 12:00"
+                },
+                {
+                    "name": "Fisica ",
+                    "calificacion": "10",
+                    "profesor": "Memo",
+                    "horario": "Lunes 10:00 - 12:00"
+                }
+            ]
+        },
+        {
+            "id": "ABC1234437",
+            "boleta": 1033,
+            "name": "Rosa Melano",
+            "email": "rosita@gmail.com",
+            "materias": [
+                {
+                    "name": "Quimica",
+                    "calificacion": "10",
+                    "profesor": "Cindy Gil",
+                    "horario": "Lunes 10:00 - 12:00"
+                },
+                {
+                    "name": "Programacion ",
+                    "calificacion": "10",
+                    "profesor": "Eligio Bazan",
+                    "horario": "Lunes 10:00 - 12:00"
+                }
+            ]
+        },
+        {
+            "id": "ABC12344724",
+            "boleta": 1011,
+            "name": "Erick Jurado",
+            "email": "erick@gmail.com",
+            "materias": [
+                {
+                    "name": "Español",
+                    "calificacion": "10",
+                    "profesor": "Juan Perez",
+                    "horario": "Lunes 10:00 - 12:00"
+                },
+                {
+                    "name": "Programacion ",
+                    "calificacion": "10",
+                    "profesor": "Memo",
+                    "horario": "Lunes 10:00 - 12:00"
+                }
+            ]
+        },
+        {
+            "id": "BDS3344",
+            "boleta": 102434,
+            "name": "Marco Silva de alegria",
+            "email": "marco@gmail.com",
+            "materias": [
+                {
+                    "name": "Matematicas",
+                    "calificacion": "10",
+                    "profesor": "Juan Perez",
+                    "horario": "Lunes 10:00 - 12:00"
+                },
+                {
+                    "name": "Programacion ",
+                    "calificacion": "10",
+                    "profesor": "Memo",
+                    "horario": "Lunes 10:00 - 12:00"
+                }
+            ]
+        },
+        {
+            "id": "BFS44234434",
+            "boleta": 12524,
+            "name": "Ana Olivia",
+            "email": "ana@gmail.com",
+            "materias": [
+                {
+                    "name": "Quimica",
+                    "calificacion": "10",
+                    "profesor": "Juan Perez",
+                    "horario": "Lunes 10:00 - 12:00"
+                },
+                {
+                    "name": "Programacion ",
+                    "calificacion": "10",
+                    "profesor": "Memo",
+                    "horario": "Lunes 10:00 - 12:00"
+                }
+            ]
+        },{
+            "id": "ABC1AA25434",
+            "boleta": 1694,
+            "name": "Pedro picapiedra",
+            "email": "pedro@gmail.com",
+            "materias": [
+                {
+                    "name": "Ciencias Naturales",
+                    "calificacion": "10",
+                    "profesor": "Salvador Ruiz",
+                    "horario": "Lunes 10:00 - 12:00"
+                },
+                {
+                    "name": "Programacion ",
+                    "calificacion": "10",
+                    "profesor": "Memo",
+                    "horario": "Lunes 10:00 - 12:00"
+                }
+            ]
+        },
+        {
+            "id": "POPO34564",
+            "boleta": 1024,
+            "name": "Naruto Uzumaki",
+            "email": "naruto@gmail.com",
+            "materias": [
+                {
+                    "name": "Matematicas",
+                    "calificacion": "10",
+                    "profesor": "Juan Perez",
+                    "horario": "Lunes 10:00 - 12:00"
+                },
+                {
+                    "name": "Programacion ",
+                    "calificacion": "10",
+                    "profesor": "Memo",
+                    "horario": "Lunes 10:00 - 12:00"
+                }
+            ]
+        },
+        {
+            "id": "ABC1234434",
+            "boleta": 1024,
+            "name": "Goku Son",
+            "email": "songoku@gmail.com",
+            "materias": [
+                {
+                    "name": "Matematicas",
+                    "calificacion": "10",
+                    "profesor": "Juan Perez",
+                    "horario": "Lunes 10:00 - 12:00"
+                },
+                {
+                    "name": "Programacion ",
+                    "calificacion": "10",
+                    "profesor": "Memo",
+                    "horario": "Lunes 10:00 - 12:00"
+                }
+            ]
+        },
+        {
+            "id": "ABC1234434",
+            "boleta": 1024,
+            "name": "Jony Bravo",
+            "email": "jony@gmail.com",
+            "materias": [
+                {
+                    "name": "Matematicas",
+                    "calificacion": "10",
+                    "profesor": "Juan Perez",
+                    "horario": "Lunes 10:00 - 12:00"
+                },
+                {
+                    "name": "Programacion ",
+                    "calificacion": "10",
+                    "profesor": "Memo",
+                    "horario": "Lunes 10:00 - 12:00"
+                }
+            ]
+        },
+        {
+            "id": "MNF234434",
+            "boleta": 145434,
+            "name": "Sakura Haruno",
+            "email": "sakura@gmail.com",
+            "materias": [
+                {
+                    "name": "Matematicas",
+                    "calificacion": "10",
+                    "profesor": "Juan Perez",
+                    "horario": "Lunes 10:00 - 12:00"
+                },
+                {
+                    "name": "Programacion ",
+                    "calificacion": "10",
+                    "profesor": "Memo",
+                    "horario": "Lunes 10:00 - 12:00"
+                }
+            ]
+        },
+        {
+            "id": "IYH97655",
+            "boleta": 32587,
+            "name": "Paloma blanca",
+            "email": "paloma@gmail.com",
+            "materias": [
+                {
+                    "name": "Matematicas",
+                    "calificacion": "10",
+                    "profesor": "Juan Perez",
+                    "horario": "Lunes 10:00 - 12:00"
+                },
+                {
+                    "name": "Programacion ",
+                    "calificacion": "10",
+                    "profesor": "Memo",
+                    "horario": "Lunes 10:00 - 12:00"
+                }
+            ]
+        }
+    ]
+}
